@@ -1,6 +1,7 @@
 # Minimalist Web Notepad
 
 Original source code https://github.com/pereorga/minimalist-web-notepad
+
 This is an open source clone of notepad.cc, which is now defunct.
 
 See demo at https://notes.orga.cat or https://notes.orga.cat/whatever.
